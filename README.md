@@ -1,4 +1,4 @@
-![O que eu não posso criar, não entendo!](images/feynman.jpg)
+![O que eu não posso criar, não entendo!](feynman.jpg)
 
 # Olá pessoas, eu sou o Eduardo e esse é o meu GitHub!
 
