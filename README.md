@@ -1,21 +1,24 @@
-<img width="auto" alt="O que eu não posso criar, não entendo" src="https://github.com/EduardoJM/EduardoJM/blob/master/feynman.jpg">
+<h1 align="right">
+    "What i cannot create, I do not understand"
+    <h3 align="right">
+        - Richard Feynman.
+    </h3>
+<h1>
 
-# Olá pessoas, eu sou o Eduardo e esse é o meu GitHub!
+# Eduardo Oliveira
 
-- :bar_chart: Licenciado em Matemática.
-- :computer: Programador.
+- :bar_chart: Graduated in math and perpetual student.
+- :computer: Developer.
 - :nerd_face: Nerd.
-- :telescope: Apaixonado por ciência e tecnologia.
-- :blue_book: Apaixonado em entender como as coisas funcionam por baixo dos panos.
-- :: Procurando colocação como desenvolvedor.
+- :telescope: Passionate about science and technology.
 
-## Tecnologias
+## Technologies
 
-- Estudando **Node** e **ReactJS** além de um pouquinho de **React-Native** com **Expo**.
+- Working with **Node** and **React** in some personal projects.
 
-- Trabalhei com **Python** em projetos pessoais de *web scrap*, além de usar suas fantásticas bibliotecas científicas para simulações de pesquisas por amostragem, e resolução de problemas variacionais utilizando o método de **Rayleigh-Ritz** no meu [tcc](https://eduardojm.github.io/tcc/). 
+- Using Python to solve *some math problems* and for create *web scraps*.
 
-## Se conecte comigo em outros lugares:
+## Social Network
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Site%20Pessoal-ff5b00?style=flat-square&logo=Google-chrome&logoColor=white&link=https://eduardojm.github.io/)](https://eduardojm.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/-Eduardo%20Oliveira-ff5b00?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edujso/)](https://www.linkedin.com/in/edujso/)
