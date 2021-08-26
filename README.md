@@ -20,6 +20,9 @@
     <a href="https://www.linkedin.com/in/edujso/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edujso/">
     </a>
+    <a href="https://twitter.com/edu_js_o">
+        <img src="https://img.shields.io/badge/-twitter-00ACEE?style=for-the-badge&labelColor=00ACEE&logo=twitter&logoColor=white&link=https://twitter.com/edu_js_o" />
+    </a>
     <a href="https://www.instagram.com/edu.js.o/">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&labelColor=E4405F&logo=instagram&logoColor=white&link=https://www.instagram.com/edu.js.o/">
     </a>
