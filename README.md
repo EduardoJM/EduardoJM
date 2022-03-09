@@ -1,15 +1,12 @@
-Graduated in math, full stack developer, nerd.
+Hi, i'm graduated in math, full stack developer and nerd.
 
-Working with:
+- :briefcase: Currently, i'm working at [InLine](https://www.inlinetech.com.br/).
+- :clipboard: Sometimes i write articles, usually in brazillian portuguese, at [dev.to/eduardojm](https://dev.to/eduardojm).
+- :toolbox: You can see my currently and my past works stacks here: [stackshare.io/eduardojm](https://stackshare.io/eduardojm/stacks).
+- :video_game: Sometimes i play games in [my Steam account](https://steamcommunity.com/profiles/76561198146153328/).
+- :mailbox: You can reach me at:
 
-- Python, Django.
-- JavaScript, TypeScript, React, React-Native, Angular.
-- Docker
-- Github Actions
-
-___
-
-<p align="center">
+<p>
     <a href="https://github.com/EduardoJM">
         <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/EduardoJM">
     </a>
@@ -23,3 +20,12 @@ ___
         <img src="https://img.shields.io/badge/-Outlook-0078d4?style=for-the-badge&labelColor=0078d4&logo=microsoft-outlook&logoColor=FFFFFF&link=mailto:eduardo_y05@outlook.com">
     </a>
 </p>
+
+---
+
+<div>
+    <a href="https://github.com/EduardoJM">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoJM&show_icons=true&theme=omni&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJM&layout=compact&langs_count=7&theme=omni"/>
+    </a>
+</div>
