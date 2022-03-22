@@ -1,7 +1,8 @@
 Hi, i'm graduated in math, full stack developer and nerd.
 
 - :briefcase: Currently, i'm working at [InLine](https://www.inlinetech.com.br/).
-- :clipboard: Sometimes i write articles, usually in brazillian portuguese, at [dev.to/eduardojm](https://dev.to/eduardojm).
+- :clipboard: Sometimes i write dev articles, usually in brazillian portuguese, at [dev.to/eduardojm](https://dev.to/eduardojm).
+- :bar_chart: Howerever, i write some math articles, in brazillian portuguese, at [Inventare](https://blog.institutoinventare.com.br/).
 - :toolbox: You can see my currently and my past works stacks here: [stackshare.io/eduardojm](https://stackshare.io/eduardojm/stacks).
 - :video_game: Sometimes i play games in [my Steam account](https://steamcommunity.com/profiles/76561198146153328/).
 - :mailbox: You can reach me at:
