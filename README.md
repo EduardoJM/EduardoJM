@@ -1,6 +1,6 @@
 Hi, i'm graduated in math, full stack developer and nerd.
 
-- :briefcase: Currently, i'm working at [InLine](https://www.inlinetech.com.br/).
+- :briefcase: Currently, i'm working at [Vendoor](https://vendoor.me/).
 - :clipboard: Sometimes i write dev articles, usually in brazillian portuguese, at [dev.to/eduardojm](https://dev.to/eduardojm).
 - :bar_chart: Howerever, i write some math articles, in brazillian portuguese, at [Inventare](https://blog.institutoinventare.com.br/).
 - :toolbox: You can see my currently and my past works stacks here: [stackshare.io/eduardojm](https://stackshare.io/eduardojm/stacks).
